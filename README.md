@@ -11,12 +11,14 @@ This repository integrates all publicly available bidding-related datasets and a
 
 2.PID
 
-3.USCB(ddpg version, ppo version)
+3.RL(old version)
 
-4.Offline RL(CQL, IQL) 
+4.USCB(ddpg version, ppo version)
 
-5.Diffbid
+5.Offline RL(CQL, IQL) 
 
-6.Decision Transformer
+6.Diffbid
 
-7.RTBagent(LLM for bidding)
+7.Decision Transformer
+
+8.RTBagent(LLM for bidding)
