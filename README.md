@@ -1,10 +1,14 @@
-# Offline-Reinforment-Learning
-一个离线强化学习算法仓库(正在更新)
+# Bidding algorithm in public dataset
+This repository integrates all publicly available bidding-related datasets and algorithms. (Updates in progress)
 
-## 已更新
-
-## 准备更新
-1. Policy Gradient(Code, 自己的理解)
-2. Q-Learning(Code, 自己的理解)
-3. DQN and Rainbow(Code, 自己的理解)
-4. A3C(Code, 自己的理解)
+## Dataset
+1. Auctionnet
+2. ipinyou
+   
+## bidding algorithm
+1.truthful bidding
+2.PID
+3.USCB(ddpg version, ppo version)
+4.Offline RL(CQL, IQL) 
+5.Diffbid
+6.Decision Transformer
